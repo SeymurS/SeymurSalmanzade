@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Seymur and I'm an Odoo developer, from Azerbaijan</h2>
+<h2 align="left">Hi 👋! My name is Seymur and I'm an Odoo developer, from Azerbaijan.</h2>
 
 ###
 
